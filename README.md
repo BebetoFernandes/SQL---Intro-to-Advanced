@@ -1,2 +1,2 @@
-# SQL---Intro-to-Advanced
+# SQL - Intro and Advanced
 SQL Tutorials and big query first lessons
