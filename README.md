@@ -2,6 +2,7 @@
 SQL Tutorials and big query first lessons
 
 Suggested Steps:
+<br />
 [1 - Getting Started](https://github.com/BebetoFernandes/SQL---Intro-to-Advanced/blob/main/getting-started-with-sql-and-bigquery.ipynb)
 <br />
 [2 - Selecting Your Data](https://github.com/BebetoFernandes/SQL---Intro-to-Advanced/blob/main/select-from-where.ipynb)
